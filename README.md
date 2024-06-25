@@ -1,6 +1,13 @@
 <h1 align="center"><b>Hola, Soy Nestor Javier Buceta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![me](https://github.com/blackyDev87/blackyDev87/assets/107352792/619105ea-40fe-422b-9ddd-84b7d45e2b95)
+
+Soy estudiante de Automatizacion y Robótica.
+Me apaciona programar paginas web.
+Tambien realizo programas para PLC's y Arduino.
+
+
+
 <!--
 **blackyDev87/blackyDev87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
