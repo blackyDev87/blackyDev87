@@ -71,19 +71,21 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Contacto
 
 <br>
-
   &emsp;
  <a href="https://instagram.com/@b_negrito">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="112">
- </a> \
+ </a>
  
   &emsp;
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nestor-javier-buceta/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100">
- </a> \
-  
+ </a>
+ 
   &emsp;
  <a href="mailto:nestorjavierbuceta@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" width="80">
- </a> 
+ </a>   
+
+
+
 
