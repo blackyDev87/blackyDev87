@@ -73,7 +73,7 @@
 <br>
 <p>
   &emsp;
- <a href="https://instagram.com/@b_negrito">
+ <a href="https://instagram.com/b_negrito">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="112">
  </a>
 </p>
