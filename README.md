@@ -17,20 +17,7 @@
 </p>
 
 <br>  
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Estadisticas
-
-<br>  
-
-<p>
-  
-  <!--![](https://github-readme-stats.vercel.app/api?username=blackyDev87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-  <!--![](https://github-readme-streak-stats.herokuapp.com/?user=blackyDev87&theme=tokyonight&hide_border=false)<br/>-->
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackyDev87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-  
-</p>
-
-<br>  
+ 
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Habilidades
 
@@ -67,21 +54,36 @@
 
 <br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Estadisticas
+
+<br>  
+
+<p>
+  
+  <!--![](https://github-readme-stats.vercel.app/api?username=blackyDev87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+  <!--![](https://github-readme-streak-stats.herokuapp.com/?user=blackyDev87&theme=tokyonight&hide_border=false)<br/>-->
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackyDev87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+  
+</p>
+
+<br> 
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Contacto
 
 <br>
 
-&emsp;
-&emsp;
+  &emsp;
  <a href="https://instagram.com/@b_negrito">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="112">
- </a>
- &emsp;
+ </a> \
+ 
+  &emsp;
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nestor-javier-buceta/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100">
- </a>
- &emsp;
+ </a> \
+  
+  &emsp;
  <a href="mailto:nestorjavierbuceta@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" width="80">
- </a>
+ </a> 
 
