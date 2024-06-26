@@ -11,7 +11,7 @@
 <p>
   
   💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hardware.\
-  🎓 &nbsp;Actualmente estudio Automatizacion y Robótica en la Universidad Tecnologica Nacional (UTN).\
+  🎓 &nbsp;Actualmente estudio Automatización y Robótica en la Universidad Tecnológica Nacional (UTN).\
   🌱 &nbsp;Busco ampliar mi campo laboral y mis conocimientos en el mundo del desarrollo web.\
 
 </p>
